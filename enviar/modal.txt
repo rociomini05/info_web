@@ -1,0 +1,30 @@
+  <!-- Modal para ingresar -->
+  <div class="modal-ingresar">
+    <div class="modal-contenedor">
+        <div class="header">
+            <p>Seleccione Sistema</p>
+            <button>X</button>
+        </div>
+        <div class="body">
+            <a href="https://www.infocontrol.com.ar/web">
+                <div class="logo">
+                    <img src="https://www.infocontrol.com.ar/iconos/logo.png" alt="Infocontrol">
+                    <p>INFOCONTROL</p>
+                </div>
+                <p>Control de Contratistas</p>
+            </a>
+            <a href="https://www.infocontrol.com.ar/barrick">
+                <img src="https://www.infocontrol.com.ar/img/cliente-21.jpg" alt="Infocontrol">
+            </a>
+            <a href="https://www.infocontrol.com.ar/osse/matriculados">
+                <img src="https://www.infocontrol.com.ar/img/cliente-10.png" alt="Infocontrol">
+            </a>
+            <a href="http://www.infocontrol.com.ar/autogestion">
+                <img src="https://www.infocontrol.com.ar/img/cliente-16.png" alt="Infocontrol">
+            </a>
+        </div>
+        <div class="footer">
+            <button>Cerrar</button>
+        </div>
+    </div>
+  </div>
